@@ -1,6 +1,7 @@
 # CVFX_ColorTransfer 
 
   # 1.cycleGAN training process 
+  we use apple2orange dataset
   ![image](https://github.com/CharlieYao1996/CVFX_ColorTransfer-/blob/master/progress%20bar.png)
   # 2.Inference cycleGAN in personal image
   >## situation1:white_base &only one target
@@ -24,3 +25,5 @@
   >>![image](https://github.com/CharlieYao1996/CVFX_ColorTransfer-/blob/master/apple2orange_ref_02.PNG)
   >>### orange2apple
   >>![image](https://github.com/CharlieYao1996/CVFX_ColorTransfer-/blob/master/orange2apple_ref_02.PNG)
+  # 4.conclusion
+  
