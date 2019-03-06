@@ -4,7 +4,7 @@
   ![image](https://github.com/CharlieYao1996/CVFX_ColorTransfer-/blob/master/progress%20bar.png)
   # 2.Inference cycleGAN in personal image
   ## situation1:white_base &only one target
-  >### apple2orange
+  >>### apple2orange
   ![image](https://github.com/CharlieYao1996/CVFX_ColorTransfer-/blob/master/apple2orange_Epoch200_01.png)
   ### orange2apple
   ![image](https://github.com/CharlieYao1996/CVFX_ColorTransfer-/blob/master/orange2apple_Epoch200_01.png)
