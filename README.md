@@ -1,7 +1,7 @@
 # CVFX_ColorTransfer 
 
   ### 1.cycleGAN training process 
-  <br></br>
+  ![image](https://github.com/CharlieYao1996/CVFX_ColorTransfer-/blob/master/progress%20bar.png)
   ### 2.Inference cycleGAN in personal image
   <br></br>
   ### 3.Compare with [Super fast color transfer between images](https://github.com/jrosebr1/color_transfer)
