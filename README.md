@@ -2,6 +2,7 @@
 
   # 1.cycleGAN training process 
   We use apple2orange dataset and we trained 200 epoches.
+  <br></br>
   While we find that 180 epoches have the best performance.
   ![image](https://github.com/CharlieYao1996/CVFX_ColorTransfer-/blob/master/progress%20bar.png)
   # 2.Inference cycleGAN in personal image
@@ -27,4 +28,4 @@
   >>### orange2apple
   >>![image](https://github.com/CharlieYao1996/CVFX_ColorTransfer-/blob/master/orange2apple_ref_02.PNG)
   # 4.conclusion
-  According to the above results, CycleGan has better performance in 2 situations. Since CycleGan though the repeatedly training sessions, it can identify the geometric of the target(apple or orange), than transfer the color to right position. Super fast color transfer just transfer the whole color pattarn from source to target, so in situation 1(white_base &only one target), the effect would irrational.
+  According to the above results, CycleGan has better performance in 2 situations. Since CycleGan though the repeatedly training sessions, it can identify the geometric of the target(apple or orange), than transfer the color to right position. Super fast color transfer just transfer the whole color pattarn from source to target, so in situation 1(white_base &only one target), the effect would irrational
