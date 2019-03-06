@@ -1,7 +1,8 @@
 # CVFX_ColorTransfer 
 
   # 1.cycleGAN training process 
-  we use apple2orange dataset
+  We use apple2orange dataset and we trained 200 epoches.
+  While we find that 180 epoches have the best performance.
   ![image](https://github.com/CharlieYao1996/CVFX_ColorTransfer-/blob/master/progress%20bar.png)
   # 2.Inference cycleGAN in personal image
   >## situation1:white_base &only one target
