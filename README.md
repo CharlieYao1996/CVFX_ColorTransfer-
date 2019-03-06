@@ -2,7 +2,7 @@
 
   # 1.cycleGAN training process 
   We use apple2orange dataset and we trained 200 epoches.
-  <br></br>
+  /<br>
   While we find that 180 epoches have the best performance.
   ![image](https://github.com/CharlieYao1996/CVFX_ColorTransfer-/blob/master/progress%20bar.png)
   # 2.Inference cycleGAN in personal image
