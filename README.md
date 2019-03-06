@@ -3,9 +3,9 @@
   ### 1.cycleGAN training process 
   ![image](https://github.com/CharlieYao1996/CVFX_ColorTransfer-/blob/master/progress%20bar.png)
   ### 2.Inference cycleGAN in personal image
-  ##white_base &only one target
+  ## white_base &only one target
   <br></br>
-  #apple2orange
+  # apple2orange
   <br></br>
   ![image](https://github.com/CharlieYao1996/CVFX_ColorTransfer-/blob/master/apple2orange_Epoch200_01.png)
   #orange2apple
