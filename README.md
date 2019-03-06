@@ -9,5 +9,5 @@
   ![image](https://github.com/CharlieYao1996/CVFX_ColorTransfer-/blob/master/apple2orange_ref_01.png)
   ![image](https://github.com/CharlieYao1996/CVFX_ColorTransfer-/blob/master/orange2apple_ref_01.png)
   <br></br>
-  ![image](https://github.com/CharlieYao1996/CVFX_ColorTransfer-/blob/master/apple2orange_ref_02.png)
-  ![image](https://github.com/CharlieYao1996/CVFX_ColorTransfer-/blob/master/orange2apple_ref_02.png)
+  ![image](https://github.com/CharlieYao1996/CVFX_ColorTransfer-/blob/master/apple2orange_ref_02.PNG)
+  ![image](https://github.com/CharlieYao1996/CVFX_ColorTransfer-/blob/master/orange2apple_ref_02.PNG)
